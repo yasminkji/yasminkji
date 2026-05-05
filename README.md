@@ -7,7 +7,7 @@ Student in software development
 I am a Computer Science student (BTS in France– Software Development) with a strong passion for programming and modern technologies. My journey started in high school when I discovered Python, and since then, I’ve never stopped coding, learning, and creating.
 
 * 🌍  I'm based in Pays de la Loire, France
-* 🖥️  See my portfolio at [My Portfolio](http://yasminkji.github.io)
+* 🖥️  See my portfolio at [My Portfolio](https://yasminkji.github.io/portfolio/)
 * ✉️  You can contact me at [yasminkhanjaoui@gmail.com](mailto:yasminkhanjaoui@gmail.com)
 
 <p align="left">
